@@ -16,7 +16,7 @@ while y>0
 {
 let mut you=0;
 let qw=num%10;let mut o=1;
-while you<=c
+while you<c
 {
 o=o*qw;you+=1;}
 sum=sum+o;
